@@ -1,0 +1,8 @@
+{
+  "name": "FR : Fast Read - 1-Hour AI Study & Mock Quiz",
+  "description": "AI-powered 1-hour accelerated study guide and mock exam helper for languages and complex topics. Summarizes key concepts into digestible takeaways, micro-timelines, and interactive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
